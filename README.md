@@ -1,6 +1,6 @@
 # npmdoc-slack-notify
 
-#### api documentation for  [slack-notify (v0.1.6)](https://github.com/andrewchilds/slack-notify)  [![npm package](https://img.shields.io/npm/v/npmdoc-slack-notify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slack-notify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slack-notify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slack-notify)
+#### basic api documentation for  [slack-notify (v0.1.6)](https://github.com/andrewchilds/slack-notify)  [![npm package](https://img.shields.io/npm/v/npmdoc-slack-notify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slack-notify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slack-notify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slack-notify)
 
 #### A simple Node.js wrapper around the Slack webhook API.
 
@@ -66,7 +66,8 @@
     "scripts": {
         "test": "./node_modules/jasmine-node/bin/jasmine-node --coffee --color --verbose ./test"
     },
-    "version": "0.1.6"
+    "version": "0.1.6",
+    "bin": {}
 }
 ```
 
